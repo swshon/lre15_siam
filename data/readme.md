@@ -1,1 +1,1 @@
-# All data can be downloaded at NIST websie (https://ivectorchallenge.nist.gov)
+# All data can be downloaded at NIST website (https://ivectorchallenge.nist.gov)
